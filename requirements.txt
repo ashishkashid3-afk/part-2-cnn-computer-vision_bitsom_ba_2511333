@@ -1,0 +1,7 @@
+Following are the python libraries used for this computer vision project:
+tensorflow-CNN Model building and training
+numpy-for numerical operations
+matplotlib-for data visualization
+scikit-learn-for data preprocessing and evaluation metrics
+pandas-for data manipulation and analysis
+pillow-for image processing
