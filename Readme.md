@@ -18,3 +18,4 @@ In this case CNN model can automatically identify defects such as dents, scratch
 -Detect defect faster
 -Minimize production loss
 -Increase Overall Equipment Efficiency
+# Dataset Source Link-'C:\\Users\\DELL\\Desktop\\bitsom_ba_2511333_Kashid_Ashish_Assignment5\\BITSoM BA - Module 5 - Dataset\\ai_project_synthetic_datasets\\part_2_cnn_computer_vision'
